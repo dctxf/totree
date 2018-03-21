@@ -4,7 +4,7 @@
   "description": "扁平结构数据转换成树形结构数据",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha index.test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/dctxf/totree/issues"
   },
-  "homepage": "https://github.com/dctxf/totree#readme"
+  "homepage": "https://github.com/dctxf/totree#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  },
+  "dependencies": {
+    "parse-json": "^4.0.0"
+  }
 }
