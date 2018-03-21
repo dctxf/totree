@@ -1,6 +1,6 @@
 {
   "name": "totree",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "扁平结构数据转换成树形结构数据",
   "main": "index.js",
   "scripts": {

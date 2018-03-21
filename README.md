@@ -83,9 +83,9 @@ const data = [{
 ]
 totree(data)
 ```
-=>
+输出
 
-```
+```js
 [{
     id: 371,
     pid: 0,
