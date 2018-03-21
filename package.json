@@ -1,0 +1,22 @@
+{
+  "name": "totree",
+  "version": "1.0.0",
+  "description": "扁平结构数据转换成树形结构数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dctxf/totree.git"
+  },
+  "keywords": [
+    "totree"
+  ],
+  "author": "dctxf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dctxf/totree/issues"
+  },
+  "homepage": "https://github.com/dctxf/totree#readme"
+}
